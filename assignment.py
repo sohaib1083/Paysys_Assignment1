@@ -4,6 +4,8 @@ def func1(a, b):
         return "Error"
     
     sum = a+b
+    # adding a new line 
+    sum += 100
 
     if sum>100:
         return sum
