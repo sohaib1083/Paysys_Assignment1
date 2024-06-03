@@ -52,7 +52,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/sohaib1083/Paysys_Assignment1">
-    <img src="images/code.png" alt="function" width="200" height="200">
+    <img src="images/code.png" alt="function" width="500" height="500">
   </a>
 
   <p align="center">
@@ -65,8 +65,9 @@
 <br />
 <div align="center">
   <a href="https://github.com/sohaib1083/Paysys_Assignment1">
-    <img src="images/test1.png" alt="test" width="200" height="200">
-    <img src="images/test2.png" alt="test" width="200" height="200">
+    <img src="images/test1.png" alt="test" width="500" height="500">
+    <br />
+    <img src="images/test2.png" alt="test" width="500" height="500">
   </a>
 
   <p align="center">
