@@ -62,6 +62,14 @@ But even after my try of breaking the code, it is all green and says all checks 
 ![pull request](images/9.png)
 After digging further we can clearly see that 3/5 test have failed proving the code is not fit
 
+### Sonar (Bonus)
+![sonar](images/sonar1.png)
+Adding our repository to SonarCloud
+![sonar](images/sonar2.png)
+Branch summary displayed
+![sonar](images/sonar3.png)
+Sonar analysis results
 
+With this, I believe the assignment comes to an end, but the learning continues. If there are any shortcomings, please let me know via email at sohaib1083@gmail.com or on phone/WhatsApp at 0333-0220803.
 
-
+Thank you.
